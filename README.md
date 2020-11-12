@@ -48,3 +48,10 @@ Text normaliztion is too useful for noisy textssuch as social media comments, co
 ![](https://cdn-images-1.medium.com/max/1600/1*e7Y-Rbxky5i2U6awCQILVQ.png)
 
 Source : Internet 
+
+### Check my other blogs
+- How-to-implement-AI-in-Spend-Analytics
+- https://github.com/chandrudp29/How-to-implement-AI-in-Spend-Analytics
+
+- CNN-Architectures-from-LeNet-to-AlexNet-1998-2012-Neural-Networks
+- https://github.com/chandrudp29/CNN-Architectures-from-LeNet-to-AlexNet-1998-2012-
