@@ -55,3 +55,6 @@ Source : Internet
 
 - CNN-Architectures-from-LeNet-to-AlexNet-1998-2012-Neural-Networks
 - https://github.com/chandrudp29/CNN-Architectures-from-LeNet-to-AlexNet-1998-2012-
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4boWsURGSPMwc08FeDMZXTTnqXbgzPr0J_w&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSObEN5kZkkMYjUw7zembT_QdWjexLONGM8iQ&usqp=CAU)
